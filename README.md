@@ -1,5 +1,5 @@
 # IndividualAnimalRe-IDDatasets
-a collection of publicly available computer vision datasets for the re-identification of individual animals
+### a collection of publicly available computer vision datasets for the re-identification of individual animals
 
 |Dataset|Species|# of Individuals|Data|Content|Identifying Feature|Labels|Corresponding Paper*|License|
 |--------|--------|--------|--------|--------|--------|--------|--------|--------|
@@ -13,7 +13,7 @@ a collection of publicly available computer vision datasets for the re-identific
 
 *be sure to check for an [ArXiv](https://arxiv.org/) version of any paper that is behind a paywall
 
-### Further Publications on the topic where the dataset could not be found and might not be public
+### further Publications on the topic where the dataset could not be found and might not be public
 
 |Publication|Species|Identifying Feature|
 |--------|--------|--------|
