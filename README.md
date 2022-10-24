@@ -5,10 +5,10 @@ a collection of publicly available computer vision datasets for the re-identific
 
 |Dataset|Species|# of Individuals|Data|Content|Identifying Feature|Labels|Corresponding Paper|License|
 |--------|--------|--------|--------|--------|--------|--------|--------|--------|
-| Cows2021|Holstein-Friesian Cattle|186|10402 images + 301 videos|top down view of the cows body|coat pattern|oriented BB + identity + tracklet annotations|Towards Self-Supervision for Video Identification of Individual Holstein-Friesian Cattle: The Cows2021 Dataset|CC BY-NC-SA 4.0|
-| Cat Individual Images  | Cats | 518 |13536 images| cat faces| face| identity annotations| none| CC BY 4.0|
-| Happy Whale | are neat      |    $1 |
-|ATRW|||||||||
+|Cows2021|Holstein-Friesian Cattle|186|10402 images + 301 videos|top down view of the cows body|coat pattern|oriented BB + identity + tracklet annotations|Towards Self-Supervision for Video Identification of Individual Holstein-Friesian Cattle: The Cows2021 Dataset|CC BY-NC-SA 4.0|
+|Cat Individual Images|Cats|518|13536 images|cat faces|face|identity annotations|none|CC BY 4.0|
+|Happy Whale|30 species of whales and dolphins|15587|51033 images|animals entierely or partly above the water surface|fin,back|identity annotations|none|Apache 2.0|
+|ATRW|Amur Tiger|92|8076 videos|tigers in unconstrained poses|coat pattern|BB + keypoint-based pose + identity annotations|ATRW: A Benchmark for Amur Tiger Re-identification in the Wild|CC BY-NC-SA 4.0|
 |Dog Face Recognition||||||||
 |SealID|||||||
 |AAU Zebrafish Re-Identification Dataset|||||||
