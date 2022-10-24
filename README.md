@@ -5,8 +5,8 @@ a collection of publicly available computer vision datasets for the re-identific
 
 | Dataset       | Species       | # of Individuals   |Data           |Content        |Identifying Feature  |Labels  | Corresponding Paper |License  |
 | ------------- |:-------------:| ------------------:| ------------- |:-------------:| --------------:|:-------------------:| -------------------:| -------:|
-| Cows2021     |Holstein-Friesian Cattle| 186 (4 carry no white marking)| 10402 Images + 301 Videos | Top Down View of the cows body| coat pattern| 13165 oriented bb annotations + 13784 identity annotations + video data and tracklet annotations| Towards Self-Supervision for Video Identification of Individual Holstein-Friesian Cattle: The Cows2021 Dataset| CC BY-NC-SA 4.0|
-| Cat Individual Images  | centered      |   $12 |
+| Cows2021     |Holstein-Friesian Cattle| 186 (4 carry no white marking)| 10402 images + 301 videos | top down view of the cows body| coat pattern| oriented BB + identity + tracklet annotations| Towards Self-Supervision for Video Identification of Individual Holstein-Friesian Cattle: The Cows2021 Dataset| CC BY-NC-SA 4.0|
+| Cat Individual Images  | Cats | 518 |13536 images| cat faces| face| identity annotations| none| CC BY 4.0|
 | Happy Whale | are neat      |    $1 |
 |ATRW|||||||||
 |Dog Face Recognition||||||||
