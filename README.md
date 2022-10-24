@@ -1,8 +1,6 @@
 # IndividualAnimalRe-IDDatasets
 a collection of publicly available computer vision datasets for the re-identification of individual animals
 
-
-
 |Dataset|Species|# of Individuals|Data|Content|Identifying Feature|Labels|Corresponding Paper*|License|
 |--------|--------|--------|--------|--------|--------|--------|--------|--------|
 |[Cows2021](https://github.com/Wormgit/Cows2021)|Holstein-Friesian Cattle|186|10402 images + 301 videos|top down view of the cows body|coat pattern|oriented BB + identity + tracklet annotations|[Towards Self-Supervision for Video Identification of Individual Holstein-Friesian Cattle: The Cows2021 Dataset](https://www.researchgate.net/publication/351354662_Towards_Self-Supervision_for_Video_Identification_of_Individual_Holstein-Friesian_Cattle_The_Cows2021_Dataset)|CC BY-NC-SA 4.0|
@@ -14,3 +12,7 @@ a collection of publicly available computer vision datasets for the re-identific
 |[AAU Zebrafish Re-Identification Dataset](https://www.kaggle.com/datasets/aalborguniversity/aau-zebrafish-reid)|Zebrafish|6|2 videos resulting in 2224 images|side-view of fish in a tank|stripes, body pattern|BB + identity annotations|[Re-Identification of Zebrafish using Metric Learning](https://doi.org/10.1109/WACVW50321.2020.9096922)|CC BY 4.0|
 
 *be sure to check for an [ArXiv](https://arxiv.org/) version of any paper that is behind a paywall
+
+###Further Publications on the topic where the dataset could not be found and might not be public
+
+
