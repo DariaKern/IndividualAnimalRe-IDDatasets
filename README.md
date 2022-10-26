@@ -3,6 +3,7 @@
 
 |Dataset|# of Individuals|Data|Content|Labels|License|
 |--------|--------|--------|--------|--------|--------|
+|[Cow Dataset](https://doi.org/10.6084/m9.figshare.16879780)|13|3772 Images|side-view of cows|identity annotations|CC BY 4.0|
 |[Cows2021](https://github.com/Wormgit/Cows2021)|186|10402 images + 301 videos|top down view of the cows body|oriented BB + identity + tracklet annotations|CC BY-NC-SA 4.0|
 |[Cat Individual Images](https://www.kaggle.com/datasets/timost1234/cat-individuals)|518|13536 images|cat faces|identity annotations|CC BY 4.0|
 |[Happy Whale](https://www.kaggle.com/code/chasset/sampling-happywhale/notebook)|15587|51033 images|30 species of whales and dolphins entierely or partly above the water surface|identity annotations|Apache 2.0|
@@ -15,6 +16,7 @@
 |Year|Publication*|Species|Identifying Feature|Corresponding Dataset|
 |--------|--------|--------|--------|--------|
 |2022|[SealID: Saimaa Ringed Seal Re-Identification Dataset](https://doi.org/10.3390/s22197602)|Saimaa Ringed Seal|pelage patterns|[SealID](https://doi.org/10.23729/0f4a3296-3b10-40c8-9ad3-0cf00a5a4a53)|
+|2021|[Individual dairy cow identification based on lightweight convolutional neural network](https://doi.org/10.1371/journal.pone.0260510)|Cows|unspecific|[Cow Dataset](https://doi.org/10.6084/m9.figshare.16879780)|
 |2021|[Towards Self-Supervision for Video Identification of Individual Holstein-Friesian Cattle: The Cows2021 Dataset](https://www.researchgate.net/publication/351354662_Towards_Self-Supervision_for_Video_Identification_of_Individual_Holstein-Friesian_Cattle_The_Cows2021_Dataset)|Holstein-Friesian Cattle|coat pattern|[Cows2021](https://github.com/Wormgit/Cows2021)|
 |2020|[ATRW: A Benchmark for Amur Tiger Re-identification in the Wild](https://doi.org/10.1145/3394171.3413569)|Amur Tiger|coat pattern|[ATRW](https://www.kaggle.com/datasets/quadeer15sh/amur-tiger-reidentification)|
 |2020|[Re-Identification of Zebrafish using Metric Learning](https://doi.org/10.1109/WACVW50321.2020.9096922)|Zebrafish|stripes, body pattern|[AAU Zebrafish Re-Identification Dataset](https://www.kaggle.com/datasets/aalborguniversity/aau-zebrafish-reid)|
