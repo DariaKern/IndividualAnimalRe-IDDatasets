@@ -5,10 +5,10 @@
 |--------|--------|--------|--------|--------|--------|
 |[Cows2021](https://github.com/Wormgit/Cows2021)|186|10402 images + 301 videos|top down view of the cows body|oriented BB + identity + tracklet annotations|CC BY-NC-SA 4.0|
 |[Cat Individual Images](https://www.kaggle.com/datasets/timost1234/cat-individuals)|518|13536 images|cat faces|identity annotations|CC BY 4.0|
-|[Happy Whale](https://www.kaggle.com/code/chasset/sampling-happywhale/notebook)|15587|51033 images|30 species of whales and dolphins entierely or partly above the water surface|fin, back|identity annotations|Apache 2.0|
+|[Happy Whale](https://www.kaggle.com/code/chasset/sampling-happywhale/notebook)|15587|51033 images|30 species of whales and dolphins entierely or partly above the water surface|identity annotations|Apache 2.0|
 |[ATRW](https://www.kaggle.com/datasets/quadeer15sh/amur-tiger-reidentification)|92|8076 videos|tigers in unconstrained poses|BB + keypoint-based pose + identity annotations|CC BY-NC-SA 4.0|
-|[Dog Face Recognition](https://www.kaggle.com/datasets/wutheringwang/dog-face-recognition)|1174|?? images|dog faces|face|identity annotations|CC0: Public Domain|
-|[SealID](https://doi.org/10.23729/0f4a3296-3b10-40c8-9ad3-0cf00a5a4a53)|57|2080 images|seals in unconstrained poses on land|identity annotations||CC BY 4.0|
+|[Dog Face Recognition](https://www.kaggle.com/datasets/wutheringwang/dog-face-recognition)|1174|?? images|dog faces|identity annotations|CC0: Public Domain|
+|[SealID](https://doi.org/10.23729/0f4a3296-3b10-40c8-9ad3-0cf00a5a4a53)|57|2080 images|seals in unconstrained poses on land|identity annotations|CC BY 4.0|
 |[AAU Zebrafish Re-Identification Dataset](https://www.kaggle.com/datasets/aalborguniversity/aau-zebrafish-reid)|6|2 videos resulting in 2224 images|side-view of fish in a tank|BB + identity annotations|CC BY 4.0|
 
 | Corresponding Dataset* |Year|Publication|Species|Identifying Feature|
