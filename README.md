@@ -11,7 +11,7 @@
 |[SealID](https://doi.org/10.23729/0f4a3296-3b10-40c8-9ad3-0cf00a5a4a53)|57|2080 images|seals in unconstrained poses on land|identity annotations|CC BY 4.0|
 |[AAU Zebrafish Re-Identification Dataset](https://www.kaggle.com/datasets/aalborguniversity/aau-zebrafish-reid)|6|2 videos resulting in 2224 images|side-view of fish in a tank|BB + identity annotations|CC BY 4.0|
 
-### corresponding Publications
+### corresponding publications
 |Year|Publication*|Species|Identifying Feature|Corresponding Dataset|
 |--------|--------|--------|--------|--------|
 |2022|[SealID: Saimaa Ringed Seal Re-Identification Dataset](https://doi.org/10.3390/s22197602)|Saimaa Ringed Seal|pelage patterns|[SealID](https://doi.org/10.23729/0f4a3296-3b10-40c8-9ad3-0cf00a5a4a53)|
@@ -22,7 +22,7 @@
 
 *be sure to check for an [ArXiv](https://arxiv.org/) version of any paper that is behind a paywall
 
-### further Publications on the topic where the dataset could not be found and might not be public
+### further publications on the topic where the dataset could not be found and might not be public
 
 |Year|Publication|Species|Identifying Feature|
 |--------|--------|--------|--------|
@@ -34,3 +34,8 @@
 |2019|[ELPephants: A Fine-Grained Dataset for Elephant Re-Identification](https://doi.org/10.1109/ICCVW.2019.00035)|Elephants|tusks, body shapes, injury marks|
 |2019|[Chimpanzee face recognition from videos in the wild using deep learning](https://doi.org/10.1126/sciadv.aaw0736)|Chimpanzee|face|
 |2018|[Individual Common Dolphin Identification Via Metric Embedding Learning](https://doi.org/10.1109/IVCNZ.2018.8634778)|Common Dolphin|fin|
+
+### further reading
+I'd like to highlight this outstanding publication from 2021 which gives a great overview of the entire topic
+[Perspectives on Individual Animal Identification from Biology and Computer Vision](https://doi.org/10.1093/icb/icab107)
+
