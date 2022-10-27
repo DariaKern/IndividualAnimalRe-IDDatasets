@@ -13,7 +13,7 @@
 |[SealID](https://doi.org/10.23729/0f4a3296-3b10-40c8-9ad3-0cf00a5a4a53)|57|2080 images|seals in unconstrained poses on land|identity annotations|CC BY 4.0|
 
 
-Species360 has a [https://conservation.species360.org/data-sharing](Data Sharing Portal) where they provide open-source data which could suit the task of re-identification
+Species360 has a [https://conservation.species360.org/data-sharing/](Data Sharing Portal) where they provide open-source data which could suit the task of re-identification
 
 
 ### corresponding publications
