@@ -3,7 +3,7 @@
 
 |Dataset|# of Individuals|Data|Content|Labels|License|
 |--------|--------|--------|--------|--------|--------|
-|[AAU Zebrafish Re-Identification Dataset](https://www.kaggle.com/datasets/aalborguniversity/aau-zebrafish-reid)|6|2 videos resulting in 2224 images|side-view of fish in a tank ![zebrafish](./zebrafish.png)|BB + identity annotations|CC BY 4.0|
+|[AAU Zebrafish Re-Identification Dataset](https://www.kaggle.com/datasets/aalborguniversity/aau-zebrafish-reid)|6|2 videos resulting in 2224 images|side-view of fish in a tank ![zebrafish](./zebrafish.png= 250x)|BB + identity annotations|CC BY 4.0|
 |[ATRW](https://www.kaggle.com/datasets/quadeer15sh/amur-tiger-reidentification)|92|8076 videos|tigers in unconstrained poses|BB + keypoint-based pose + identity annotations|CC BY-NC-SA 4.0|
 |[Cat Individual Images](https://www.kaggle.com/datasets/timost1234/cat-individuals)|518|13536 images|cat faces|identity annotations|CC BY 4.0|
 |[Cow Dataset](https://doi.org/10.6084/m9.figshare.16879780)|13|3772 Images|side-view of cows|identity annotations|CC BY 4.0|
