@@ -5,7 +5,7 @@
 |--------|--------|--------|--------|--------|--------|
 |[AAU Zebrafish Re-Identification Dataset](https://www.kaggle.com/datasets/aalborguniversity/aau-zebrafish-reid) ![zebrafish](./zebrafish.png)|6 zebrafish|2 videos resulting in 2224 images|side-view of fish in a tank|BB + identity annotations|CC BY 4.0|
 |[ATRW](https://www.kaggle.com/datasets/quadeer15sh/amur-tiger-reidentification) ![tiger](./tiger.jpg)|92 tigers|8076 videos|tigers in unconstrained poses|BB + keypoint-based pose + identity annotations|CC BY-NC-SA 4.0|
-|[Cat Individual Images](https://www.kaggle.com/datasets/timost1234/cat-individuals) ![cat](./cat.jpg)|518 cats|13536 images|cat faces|identity annotations|CC BY 4.0|
+|[Cat Individual Images](https://www.kaggle.com/datasets/timost1234/cat-individuals) ![cat](./cat.jpg)|518 cats|13536 images|front view of cats|identity annotations|CC BY 4.0|
 |[Cow Dataset](https://doi.org/10.6084/m9.figshare.16879780) ![cow](./cow.jpg)|13 cows|3772 Images|side-view of cows|identity annotations|CC BY 4.0|
 |[Cows2021](https://github.com/Wormgit/Cows2021) ![cows2021](./cows2021.png)|186 cows|10402 images + 301 videos|top down view of the cows body|oriented BB + identity + tracklet annotations|CC BY-NC-SA 4.0|
 |[Dog Face Recognition](https://www.kaggle.com/datasets/wutheringwang/dog-face-recognition) ![dog](./dog.jpg)|1174 dogs|?? images|dog faces|identity annotations|CC0: Public Domain|
