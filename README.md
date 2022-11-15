@@ -51,3 +51,5 @@ I'd like to highlight this outstanding publication from 2021 which gives a great
 
 
 [AIDE: Annotation Interface for Data-driven Ecology](https://github.com/microsoft/aerial_wildlife_detection) is a tool for manually annotating images & also for training and running machine learning models. Both coupled in an active learning loop
+
+Microsoft has also published the [MegaDetector](https://github.com/microsoft/CameraTraps/blob/main/megadetector.md) in GitHub. It detects animals, people, and vehicles in camera trap images
