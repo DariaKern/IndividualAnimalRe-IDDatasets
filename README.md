@@ -50,4 +50,4 @@ I'd like to highlight this outstanding publication from 2021 which gives a great
 [Perspectives on Individual Animal Identification from Biology and Computer Vision](https://doi.org/10.1093/icb/icab107)
 
 
-
+[AIDE: Annotation Interface for Data-driven Ecology](https://github.com/microsoft/aerial_wildlife_detection) is a tool for manually annotating images & also for training and running machine learning models.Both coupled in an active learning loop
