@@ -42,6 +42,7 @@ Species360 has a [Data Sharing Portal](https://conservation.species360.org/data-
 |2020|[Image-based Individual Cow Recognition using Body Patterns](https://dx.doi.org/10.14569/IJACSA.2020.0110311)|4 Species of Cow|body pattern|
 |2019|[ELPephants: A Fine-Grained Dataset for Elephant Re-Identification](https://doi.org/10.1109/ICCVW.2019.00035)|Elephants|tusks, body shapes, injury marks|
 |2019|[Chimpanzee face recognition from videos in the wild using deep learning](https://doi.org/10.1126/sciadv.aaw0736)|Chimpanzee|face|
+|2019|[Distinguishing Individual Red Pandas from Their Faces](https://doi.org/10.1007/978-3-030-31723-2_61)|Red Panda|face|
 |2018|[Individual Common Dolphin Identification Via Metric Embedding Learning](https://doi.org/10.1109/IVCNZ.2018.8634778)|Common Dolphin|fin|
 |2018|[Individual Minke Whale Recognition Using Deep Learning Convolutional Neural Networks](https://doi.org/10.4236/gep.2018.65003)|Dwarf Minke Whale|fin, scars, body|
 |2018|[Multi-views Embedding for Cattle Re-identification](https://doi.org/10.1109/SITIS.2018.00036)|Cattle|face|
