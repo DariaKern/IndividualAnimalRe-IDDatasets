@@ -11,6 +11,7 @@
 |[Dog Face Recognition](https://www.kaggle.com/datasets/wutheringwang/dog-face-recognition) ![dog](./dog.jpg)|1174 dogs|?? images|dog faces|identity annotations|CC0: Public Domain|
 |[Happy Whale](https://www.kaggle.com/code/chasset/sampling-happywhale/notebook) ![happywhale](./happywhale.jpg)|15587 whales and dolphins|51033 images|30 species of whales and dolphins entierely or partly above the water surface|identity annotations|Apache 2.0|
 |[SealID](https://doi.org/10.23729/0f4a3296-3b10-40c8-9ad3-0cf00a5a4a53) ![seal](./seal.jpg)|57 seals|2080 images|seals in unconstrained poses on land|identity annotations|CC BY 4.0|
+|[iPanda-50 ](https://github.com/iPandaDateset/iPanda-50) ![seal](./seal.jpg)|50 giant pandas|6874 images|pandas in unconstrained poses|identity annotations|??|
 
 
 Species360 has a [Data Sharing Portal](https://conservation.species360.org/data-sharing/) where they provide open-source data on request. Some of the data might suit the task of re-identification
