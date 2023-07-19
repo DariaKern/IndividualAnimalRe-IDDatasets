@@ -44,6 +44,8 @@ Species360 has a [Data Sharing Portal](https://conservation.species360.org/data-
 |2019|[Chimpanzee face recognition from videos in the wild using deep learning](https://doi.org/10.1126/sciadv.aaw0736)|Chimpanzee|face|
 |2018|[Individual Common Dolphin Identification Via Metric Embedding Learning](https://doi.org/10.1109/IVCNZ.2018.8634778)|Common Dolphin|fin|
 |2018|[Individual Minke Whale Recognition Using Deep Learning Convolutional Neural Networks](https://doi.org/10.4236/gep.2018.65003)|Dwarf Minke Whale|fin, scars, body|
+|2018|[Multi-views Embedding for Cattle Re-identification](https://doi.org/10.1109/SITIS.2018.00036)|Cattle|face|
+
 
 ### further reading
 I'd like to highlight this outstanding publication from 2021 which gives a great overview of the entire topic
