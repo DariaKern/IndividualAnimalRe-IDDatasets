@@ -55,6 +55,7 @@ Species360 has a [Data Sharing Portal](https://conservation.species360.org/data-
 |2013|[An automated chimpanzee identification system using face detection and recognition](https://doi.org/10.1186/1687-5281-2013-49)|Chimpanzee|face|
 
 ** please refer to data@apic.ai for early access
+
 ***to obtain a copy please directly contact: Michael C. Scholl, Save Our Seas Foundation (CEO), Michael@SaveOurSeas.com
 
 ### further reading
