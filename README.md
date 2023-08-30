@@ -21,13 +21,13 @@ Species360 has a [Data Sharing Portal](https://conservation.species360.org/data-
 ### corresponding publications
 |Year|Publication*|Species|Identifying Feature|Corresponding Dataset|
 |--------|--------|--------|--------|--------|
-|2022|[A Benchmark Database for Animal Re-Identification and Tracking](https://doi.org/10.1109/IPAS55744.2022.10052988)|[Animal-Identification-from-Video](https://github.com/LucyKuncheva/Animal-Identification-from-Video)|
+|2022|[A Benchmark Database for Animal Re-Identification and Tracking](https://doi.org/10.1109/IPAS55744.2022.10052988)|Pigeon, Koi Fish, Pig|whole body|[Animal-Identification-from-Video](https://github.com/LucyKuncheva/Animal-Identification-from-Video)|
 |2022|[SealID: Saimaa Ringed Seal Re-Identification Dataset](https://doi.org/10.3390/s22197602)|Saimaa Ringed Seal|pelage patterns|[SealID](https://doi.org/10.23729/0f4a3296-3b10-40c8-9ad3-0cf00a5a4a53)|
 |2021|[Giant Panda Identification](https://doi.org/10.1109/TIP.2021.3055627)|Giant Panda|discriminative local patches - they found panda’s eyes play a critical role in panda identification|[iPanda-50](https://github.com/iPandaDateset/iPanda-50)|
 |2021|[Individual dairy cow identification based on lightweight convolutional neural network](https://doi.org/10.1371/journal.pone.0260510)|Cows|unspecific|[Cow Dataset](https://doi.org/10.6084/m9.figshare.16879780)|
 |2021|[Towards Self-Supervision for Video Identification of Individual Holstein-Friesian Cattle: The Cows2021 Dataset](https://www.researchgate.net/publication/351354662_Towards_Self-Supervision_for_Video_Identification_of_Individual_Holstein-Friesian_Cattle_The_Cows2021_Dataset)|Holstein-Friesian Cattle|coat pattern|[Cows2021](https://github.com/Wormgit/Cows2021)|
 |2020|[ATRW: A Benchmark for Amur Tiger Re-identification in the Wild](https://doi.org/10.1145/3394171.3413569)|Amur Tiger|coat pattern|[ATRW](https://www.kaggle.com/datasets/quadeer15sh/amur-tiger-reidentification)|
-|2020|[Re-Identification of Zebrafish using Metric Learning](https://doi.org/10.1109/WACVW50321.2020.9096922)|Zebrafish|stripes, body pattern|[AAU Zebrafish Re-Identification Dataset](https://www.kaggle.com/datasets/aalborguniversity/aau-zebrafish-reid)|Pigeon, Koi Fish, Pig|whole body|
+|2020|[Re-Identification of Zebrafish using Metric Learning](https://doi.org/10.1109/WACVW50321.2020.9096922)|Zebrafish|stripes, body pattern|[AAU Zebrafish Re-Identification Dataset](https://www.kaggle.com/datasets/aalborguniversity/aau-zebrafish-reid)|
 
 
 *be sure to check for an [ArXiv](https://arxiv.org/) version of any paper that is behind a paywall
