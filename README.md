@@ -12,7 +12,7 @@
 |[Happy Whale](https://www.kaggle.com/code/chasset/sampling-happywhale/notebook) ![happywhale](./happywhale.jpg)|15587 whales and dolphins|51033 images|30 species of whales and dolphins entierely or partly above the water surface|identity annotations|Apache 2.0|
 |[SealID](https://doi.org/10.23729/0f4a3296-3b10-40c8-9ad3-0cf00a5a4a53) ![seal](./seal.jpg)|57 seals|2080 images|seals in unconstrained poses on land|identity annotations|CC BY 4.0|
 |[iPanda-50](https://github.com/iPandaDateset/iPanda-50) ![giantpanda](./giantpanda.jpg)|50 giant pandas|6874 images|pandas in unconstrained poses|identity annotations|??|
-|[Animal-Identification-from-Video](https://github.com/LucyKuncheva/Animal-Identification-from-Video) ![giantpanda]|26 pigs, 9 koi fish, 58 pigeons|2379 frames| pig,koi and pigeons in unconstrained poses|BB + identity annotaions|pixabay license|
+|[Animal-Identification-from-Video](https://github.com/LucyKuncheva/Animal-Identification-from-Video) ![idfromvideo](./idfromvideo.png)|26 pigs, 9 koi fish, 58 pigeons|2379 frames| pig,koi and pigeons in unconstrained poses|BB + identity annotaions|pixabay license|
 
 
 Species360 has a [Data Sharing Portal](https://conservation.species360.org/data-sharing/) where they provide open-source data on request. Some of the data might suit the task of re-identification
