@@ -58,6 +58,11 @@ Species360 has a [Data Sharing Portal](https://conservation.species360.org/data-
 
 [b] to obtain a copy please directly contact: Michael C. Scholl, Save Our Seas Foundation (CEO), Michael@SaveOurSeas.com
 
+### other resources
+|Website|Dataset|Species|Identifying Feature|
+|--------|--------|--------|--------|
+|[Sarasota Dolphin Research Program](https://sarasotadolphin.org/)|[GoMDIS](https://sarasotadolphin.org/gomdis/)|bottlenose dolphins|dorsal fin|
+
 ### further reading
 I'd like to highlight this outstanding publication from 2021 which gives a great overview of the entire topic
 [Perspectives on Individual Animal Identification from Biology and Computer Vision](https://doi.org/10.1093/icb/icab107)
