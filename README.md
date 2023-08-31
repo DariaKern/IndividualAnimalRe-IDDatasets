@@ -32,7 +32,7 @@ Species360 has a [Data Sharing Portal](https://conservation.species360.org/data-
 
 *be sure to check for an [ArXiv](https://arxiv.org/) version of any paper that is behind a paywall
 
-### further publications on the topic where the dataset could not be found and might not be public
+### further publications on the topic where the dataset could not be found and might not be public OR is only available on request
 
 |Year|Publication|Species|Identifying Feature|Note|
 |--------|--------|--------|--------|--------|
