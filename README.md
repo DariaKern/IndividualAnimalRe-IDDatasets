@@ -13,6 +13,7 @@
 |[SealID](https://doi.org/10.23729/0f4a3296-3b10-40c8-9ad3-0cf00a5a4a53) ![seal](./seal.jpg)|57 seals|2080 images|seals in unconstrained poses on land|identity annotations|CC BY 4.0|
 |[iPanda-50](https://github.com/iPandaDateset/iPanda-50) ![giantpanda](./giantpanda.jpg)|50 giant pandas|6874 images|pandas in unconstrained poses|identity annotations|??|
 |[Animal-Identification-from-Video](https://github.com/LucyKuncheva/Animal-Identification-from-Video) ![idfromvideo](./idfromvideo.png)|26 pigs, 9 koi fish, 58 pigeons|5 videos resulting in 2379 frames| pigs (above/side view), koi fish (top down view) and pigeons on the ground (sideview) in unconstrained poses|BB + identity annotaions|pixabay license|
+<!-- |[BirdIndividualID](https://github.com/AndreCFerreira/Bird_individualID)| 30 sociable weavers, 10 great tits, 10 zebra finches| unfortunately description of dataset unclear & dataset download currently not possible |coarse segmentation + identity annotations| license unclear|-->
 
 
 
@@ -26,7 +27,6 @@
 |2021|[Towards Self-Supervision for Video Identification of Individual Holstein-Friesian Cattle: The Cows2021 Dataset](https://www.researchgate.net/publication/351354662_Towards_Self-Supervision_for_Video_Identification_of_Individual_Holstein-Friesian_Cattle_The_Cows2021_Dataset)|Holstein-Friesian Cattle|coat pattern|[Cows2021](https://data.bris.ac.uk/data/dataset/4vnrca7qw1642qlwxjadp87h7)|
 |2020|[ATRW: A Benchmark for Amur Tiger Re-identification in the Wild](https://doi.org/10.1145/3394171.3413569)|Amur Tiger|coat pattern|[ATRW](https://www.kaggle.com/datasets/quadeer15sh/amur-tiger-reidentification)|
 |2020|[Re-Identification of Zebrafish using Metric Learning](https://doi.org/10.1109/WACVW50321.2020.9096922)|Zebrafish|stripes, body pattern|[AAU Zebrafish Re-Identification Dataset](https://www.kaggle.com/datasets/aalborguniversity/aau-zebrafish-reid)|
-|2020|[Deep learning-based methods for individual recognition in small birds](https://doi.org/10.1111/2041-210X.13436)|Sociable Weaver, Great Tit, Zebra Finch|body|[BirdIndividualID](https://github.com/AndreCFerreira/Bird_individualID)
 
 
 *be sure to check for an [ArXiv](https://arxiv.org/) version of any paper that is behind a paywall
@@ -40,7 +40,8 @@
 |2021|[Robust Re-identification of Manta Rays from Natural Markings by Learning Pose Invariant Embeddings](https://doi.org/10.1109/DICTA52665.2021.9647359)|Manta Rays|belly markings||
 |2021|[Dog Nose-Print Identification Using Deep Neural Networks](https://doi.org/10.1109/ACCESS.2021.3068517)|Dogs|nose||
 |2021|[Assessing the performance of open-source, semi-automated pattern recognition software for harbour seal (P. v. vitulina) photo ID]()|Harbour Seal|body pattern||
-|2020|[Bumblebee Re-Identification Dataset](https://doi.org/10.1109/WACVW50321.2020.9096909)|Bumblebee|body|a|
+|2020|[Deep learning-based methods for individual recognition in small birds](https://doi.org/10.1111/2041-210X.13436)|Sociable Weaver, Great Tit, Zebra Finch|body|a|
+|2020|[Bumblebee Re-Identification Dataset](https://doi.org/10.1109/WACVW50321.2020.9096909)|Bumblebee|body|b|
 |2020|[A study on giant panda recognition based on images of a large proportion of captive pandas](https://doi.org/10.1002/ece3.6152)|Giant Panda|face||
 |2020|[Automated facial recognition for wildlife that lack unique markings: A deep learning approach for brown bears](https://doi.org/10.1002/ece3.6840)|Brown Bear|face||
 |2020|[Image-based Individual Cow Recognition using Body Patterns](https://dx.doi.org/10.14569/IJACSA.2020.0110311)|4 Species of Cow|body pattern||
@@ -50,12 +51,15 @@
 |2018|[Individual Common Dolphin Identification Via Metric Embedding Learning](https://doi.org/10.1109/IVCNZ.2018.8634778)|Common Dolphin|fin||
 |2018|[Individual Minke Whale Recognition Using Deep Learning Convolutional Neural Networks](https://doi.org/10.4236/gep.2018.65003)|Dwarf Minke Whale|fin, scars, body||
 |2018|[Multi-views Embedding for Cattle Re-identification](https://doi.org/10.1109/SITIS.2018.00036)|Cattle|face||
-|2016|[Automated Visual Fin Identification of Individual Great White Sharks]( https://doi.org/10.1007/s11263-016-0961-y)|Great White Shark|fin|b|
+|2016|[Automated Visual Fin Identification of Individual Great White Sharks]( https://doi.org/10.1007/s11263-016-0961-y)|Great White Shark|fin|c|
 |2013|[An automated chimpanzee identification system using face detection and recognition](https://doi.org/10.1186/1687-5281-2013-49)|Chimpanzee|face||
 
-[a] please refer to data@apic.ai for early access
 
-[b] to obtain a copy please directly contact: Michael C. Scholl, Save Our Seas Foundation (CEO), Michael@SaveOurSeas.com
+[a] [GitHub](https://github.com/AndreCFerreira/Bird_individualID) available but dataset cannot be donwloaded
+
+[b] please refer to data@apic.ai for early access
+
+[c] to obtain a copy please directly contact: Michael C. Scholl, Save Our Seas Foundation (CEO), Michael@SaveOurSeas.com
 
 ### other resources
 |Website|Dataset|Species|Identifying Feature|
