@@ -53,6 +53,7 @@
 |2018|[Multi-views Embedding for Cattle Re-identification](https://doi.org/10.1109/SITIS.2018.00036)|Cattle|face||
 |2016|[Automated Visual Fin Identification of Individual Great White Sharks]( https://doi.org/10.1007/s11263-016-0961-y)|Great White Shark|fin|c|
 |2013|[An automated chimpanzee identification system using face detection and recognition](https://doi.org/10.1186/1687-5281-2013-49)|Chimpanzee|face||
+|2011|[Biometric animal databases from field photographs: identification of individual zebra in the wild](https://doi.org/10.1145/1991996.1992002)|Grevy’s Zebra + Plains Zebra|stripes|d|
 
 
 [a] [GitHub](https://github.com/AndreCFerreira/Bird_individualID) available but dataset cannot be donwloaded
@@ -60,6 +61,8 @@
 [b] please refer to data@apic.ai for early access
 
 [c] to obtain a copy please directly contact: Michael C. Scholl, Save Our Seas Foundation (CEO), Michael@SaveOurSeas.com
+
+[d] dataset can be downloaded [here](http://code.google.com/p/stripespotter/) but unfotunetely the .zip file cannot be extracted
 
 ### other resources
 |Website|Dataset|Species|Identifying Feature|
