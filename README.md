@@ -64,6 +64,7 @@ Species360 has a [Data Sharing Portal](https://conservation.species360.org/data-
 |[Sarasota Dolphin Research Program](https://sarasotadolphin.org/)|[GoMDIS](https://sarasotadolphin.org/gomdis/)|bottlenose dolphins|dorsal fin|
 |[Cascadia Research Collective](https://cascadiaresearch.org/)|[Photo-ID Project](https://cascadiaresearch.org/project/photo-id/)|humpback and blue whale|flukes (humpback whale), dorsal fin (blue whale)| 
 |[OBIS-SEAMAP](https://seamap.env.duke.edu/content/about)|[various datasets](https://seamap.env.duke.edu/dataset/list)|[various species](https://seamap.env.duke.edu/species/list)|-|
+|[Species 360](https://species360.org/)|[various data](https://conservation.species360.org/data-sharing/)|various species|-|
 
 ### further reading
 I'd like to highlight this outstanding publication from 2021 which gives a great overview of the entire topic
