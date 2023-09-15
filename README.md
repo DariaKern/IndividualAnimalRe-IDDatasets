@@ -15,8 +15,6 @@
 |[Animal-Identification-from-Video](https://github.com/LucyKuncheva/Animal-Identification-from-Video) ![idfromvideo](./idfromvideo.png)|26 pigs, 9 koi fish, 58 pigeons|5 videos resulting in 2379 frames| pigs (above/side view), koi fish (top down view) and pigeons on the ground (sideview) in unconstrained poses|BB + identity annotaions|pixabay license|
 
 
-Species360 has a [Data Sharing Portal](https://conservation.species360.org/data-sharing/) where they provide open-source data on request. Some of the data might suit the task of re-identification
-
 
 ### corresponding publications
 |Year|Publication*|Species|Identifying Feature|Corresponding Dataset|
