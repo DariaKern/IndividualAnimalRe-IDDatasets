@@ -9,10 +9,11 @@
 |[Cow Dataset](https://doi.org/10.6084/m9.figshare.16879780) ![cow](./cow.jpg)|13 cows|3772 Images|side-view of cows|identity annotations|CC BY 4.0|
 |[Cows2021](https://github.com/Wormgit/Cows2021) ![cows2021](./cows2021.png)|186 cows|10402 images + 301 videos|top down view of the cows body|oriented BB + identity + tracklet annotations|CC BY-NC-SA 4.0|
 |[Dog Face Recognition](https://www.kaggle.com/datasets/wutheringwang/dog-face-recognition) ![dog](./dog.jpg)|1174 dogs|?? images|dog faces|identity annotations|CC0: Public Domain|
-|[Happy Whale](https://www.kaggle.com/code/chasset/sampling-happywhale/notebook) ![happywhale](./happywhale.jpg)|15587 whales and dolphins|51033 images|30 species of whales and dolphins entierely or partly above the water surface|identity annotations|Apache 2.0|
+|[Happy Whale](https://www.kaggle.com/competitions/happy-whale-and-dolphin/data) ![happywhale](./happywhale.jpg)|15587 whales and dolphins|51033 images|30 species of whales and dolphins entierely or partly above the water surface|identity annotations|Competition, Academic, and Non-Commercial Use Only|
 |[SealID](https://doi.org/10.23729/0f4a3296-3b10-40c8-9ad3-0cf00a5a4a53) ![seal](./seal.jpg)|57 seals|2080 images|seals in unconstrained poses on land|identity annotations|CC BY 4.0|
 |[iPanda-50](https://github.com/iPandaDateset/iPanda-50) ![giantpanda](./giantpanda.jpg)|50 giant pandas|6874 images|pandas in unconstrained poses|identity annotations|??|
 |[Animal-Identification-from-Video](https://github.com/LucyKuncheva/Animal-Identification-from-Video) ![idfromvideo](./idfromvideo.png)|26 pigs, 9 koi fish, 58 pigeons|5 videos resulting in 2379 frames| pigs (above/side view), koi fish (top down view) and pigeons on the ground (sideview) in unconstrained poses|BB + identity annotaions|pixabay license|
+https://www.kaggle.com/competitions/humpback-whale-identification/overview
 
 
 Species360 has a [Data Sharing Portal](https://conservation.species360.org/data-sharing/) where they provide open-source data on request. Some of the data might suit the task of re-identification
