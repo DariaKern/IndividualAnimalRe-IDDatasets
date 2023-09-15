@@ -13,7 +13,6 @@
 |[SealID](https://doi.org/10.23729/0f4a3296-3b10-40c8-9ad3-0cf00a5a4a53) ![seal](./seal.jpg)|57 seals|2080 images|seals in unconstrained poses on land|identity annotations|CC BY 4.0|
 |[iPanda-50](https://github.com/iPandaDateset/iPanda-50) ![giantpanda](./giantpanda.jpg)|50 giant pandas|6874 images|pandas in unconstrained poses|identity annotations|??|
 |[Animal-Identification-from-Video](https://github.com/LucyKuncheva/Animal-Identification-from-Video) ![idfromvideo](./idfromvideo.png)|26 pigs, 9 koi fish, 58 pigeons|5 videos resulting in 2379 frames| pigs (above/side view), koi fish (top down view) and pigeons on the ground (sideview) in unconstrained poses|BB + identity annotaions|pixabay license|
-https://www.kaggle.com/competitions/humpback-whale-identification/overview
 
 
 Species360 has a [Data Sharing Portal](https://conservation.species360.org/data-sharing/) where they provide open-source data on request. Some of the data might suit the task of re-identification
