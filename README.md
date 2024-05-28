@@ -1,3 +1,5 @@
+Attention: not up to date. Will be updated soon 
+
 # IndividualAnimalRe-IDDatasets
 ### a collection of publicly available computer vision datasets for the re-identification of individual animals
 
