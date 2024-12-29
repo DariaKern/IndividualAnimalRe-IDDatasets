@@ -1,3 +1,53 @@
+**!!!Currently being updated!!!**
+
+
+| **Year** | **Publication** | **Dataset** | **IDs** | **Species** | **Annotations** | **Avail\. at** |
+|----------|------------|-------------|---------|-------------|-------------|----------------|
+| 2024     | [ Towards Automated Chicken Monitoring: Dataset and Machine Learning Methods for Visual, Noninvasive Reidentification ](https://doi.org/10.3390/ani15010001)   | [Chicks4FreeID](https://doi.org/10.57967/hf/2345) | 50, 2, 2 | chicken, duck, rooster | 1215, 40, 15 |  |
+| 2024     | [SeaTurtleID2022: A long-span dataset for reliable sea turtle re-identification](https://doi.org/10.1109/WACV57701.2024.00699)    | [SeaTurtleID2022](https://www.kaggle.com/datasets/wildlifedatasets/seaturtleid2022)    | 438    | sea turtle    | 8729    |      |
+| 2023 | [MammalClub: An Annotated Wild Mammal Dataset for Species Recognition, Individual Identification, and Behavior Recognition](https://doi.org/10.3390/electronics12214506)  | [Mammal Club \(IISD\)](https://github.com/WJ-0425/MammalClub) | 218        | 11 terrestrial mammal species\*             | 33612      |  |
+| 2023   | [Animal Re-Identification Algorithm for Posture Diversity](https://doi.org/10.1109/ICASSP49357.2023.10094783)  | [Multi\-pose dog dataset](https://data.mendeley.com/datasets/v5j6m8dzhv/1)  | 192        | dog        | 1657              |  |
+| 2023 | [PolarBearVidID: A Video-Based Re-Identification Benchmark Dataset for Polar Bears](https://doi.org/10.3390/ani13050801)  | [PolarBearVidID](https://doi.org/10.5281/zenodo.7564529)    | 13    | polar bear\*   | 138363    |  |
+| 2023    |  [An open-source general purpose machine learning framework for individual animal re-identification using few-shot learning](https://doi.org/10.1111/2041-210X.14278)  | [Sea Star Re\-ID](https://lila.science/sea-star-re-id-2023/)    | 39, 56     | common starfish, Australian cushion star    | 1204, 983     |  |
+| 2022   | [A Benchmark Database for Animal Re-Identification and Tracking](https://doi.org/10.1109/IPAS55744.2022.10052988)  | [Animal\-Identification\-from\-Video](https://github.com/LucyKuncheva/Animal-Identification-from-Video) | 58, 26, 9  | pigeon\*, pig\*, Koi fish\*     | 12671, 6184, 1635 |      |
+| 2022  | n\.a\. | [Beluga ID](https://lila.science/datasets/beluga-id-2022/) | 788  | beluga whale   | 5902  |  |
+| 2022  | n\.a\. | [Happywhale](https://kaggle.com/competitions/happy-whale-and-dolphin)  | 15587  | 30 different species of whales and dolphins | 51033  |    |
+| 2022  | n\.a\. | [Hyiena ID](https://lila.science/datasets/hyena-id-2022/)  | 256   | spotted hyena  | 3129   |  |
+| 2022  | n\.a\. | [Leopard ID](https://lila.science/datasets/leopard-id-2022/) | 430   | African leopard    | 6805  |  |
+| 2022  | [SealID: Saimaa Ringed Seal Re-Identification Dataset](https://doi.org/10.3390/s22197602) | [SealID](https://doi.org/10.23729/0f4a3296-3b10-40c8-9ad3-0cf00a5a4a53)  | 57   | Saimaa ringed seal | 2080  |  |
+| 2022  | [SeaTurtleID: A novel long-span dataset highlighting the importance of timestamps in wildlife re-identification](https://doi.org/10.48550/arXiv.2211.10307)  | [SeaTurtleIDHeads](https://www.kaggle.com/datasets/wildlifedatasets/seaturtleidheads)   | 400   | sea turtle    | 7774      |   |
+| 2022  | n\.a\. | [Turtle Recall](https://zindi.africa/competitions/turtle-recall-conservation-challenge/data) | 100  | sea turtle  | 2145   |   |
+| 2021  | [Individual dairy cow identification based on lightweight convolutional neural network](https://doi.org/10.1371/journal.pone.0260510) | [Cow Dataset](https://doi.org/10.6084/m9.figshare.16879780)     | 13    | cow    | 3772   |       |
+| 2021  |  [Towards Self-Supervision for Video Identification of Individual Holstein-Friesian Cattle: The Cows2021 Dataset](https://arxiv.org/abs/2105.01938) | [Cows2021](https://doi.org/10.5523/bris.4vnrca7qw1642qlwxjadp87h7) | 182        | Holstein\-Friesian cattle\*   | 13784   |   |
+| 2021  |  [Revisiting animal photo-identification using deep metric learning and network analysis](https://doi.org/10.1111/2041-210X.13577) | [Giraffe Dataset](https://plmlab.math.cnrs.fr/vmiele/animal-reid/)   | 62         | giraffe    | 624    |   |
+| 2021  | []()  | [iPanda\-50]()        | 50         | giant panda      | 6874      |    |
+| 2020  | []()  | [AAU Zebrafish Dataset]()   | 6   | zebrafish\*        | 6672     |  |
+| 2020                                   | \\cite\{AnimalFaceDataset\}                           | Animal Face Dataset                           | 1040       | 41 primate species                          | 102399            | \\cite\{AnimalFaceDataset\_link\}                           |
+| 2020                                   | \\cite\{ATRW\_Dataset\}                               | ATRW                                          | 92         | Amur tiger\*                                | 3649              | \\cite\{ATRW\_Dataset\_link\}                               |
+| 2020                                   | \\cite\{Lion\_face\_and\_Nyala\_dataset\}             | Lion Face Dataset                             | 94         | lion                                        | 740               | \\cite\{Lion\_face\_dataset\_link\}                         |
+| 2020                                   | \\cite\{NDD20\}                                       | NDD20                                         | 44, 82     | bottlenose and white\-beaked dolphin,       |
+| white\-beaked dolphin \(underwater\)\* | 2201, 2201                                            | \\cite\{NDD20\_link\}                         |
+| 2020                                   | \\cite\{Lion\_face\_and\_Nyala\_dataset\}             | Nyala Data                                    | 237        | nyala                                       | 1942              | \\cite\{Nyala\_dataset\_link\}                              |
+| 2020                                   | \\cite\{OpenCows2020\}                                | OpenCows2020                                  | 46         | Holstein\-Friesian cattle\*                 | 4736              | \\cite\{OpenCows2020\_link\}                                |
+| 2019                                   | \\cite\{BirdIndividualID\}                            | Bird individualID                             | 30, 10 ,10 | sociable  weaver, great  tit, zebra  finch  | 51934             | \\cite\{BirdIndividualID\_link\}                            |
+| 2019                                   | \\cite\{Dog\_Face\_Dataset\}                          | Dog Face Dataset                              | 1393       | dog                                         | 8363              | \\cite\{Dog\_Face\_Dataset\_link\}                          |
+| 2018                                   | \\cite\{Cat\_Individual\_Images\}                     | Cat Individual Images                         | 518        | cat                                         | 13536             | \\cite\{Cat\_Individual\_Images\_link\}                     |
+| 2018                                   | \\cite\{Fruit\_Fly\_Dataset\}                         | Fruit Fly Dataset                             | 60         | fruit fly\*                                 | 2592000           | \\cite\{Fruit\_Fly\_Dataset\_link\}                         |
+| 2018                                   | n\.a\.                                                | HumpbackWhaleID                               | 5004       | humpback whale                              | 15697             | \\cite\{Humpback\_Whale\_Identification\_Link\}             |
+| 2018                                   | \\cite\{MacaqueFaces\}                                | MacaqueFaces                                  | 34         | rhesus macaque\*                            | 6280              | \\cite\{MacaqueFaces\_link\}                                |
+| 2017                                   | \\cite\{FriesianCattle2017\_AerialCattle2017\}        | AerialCattle2017                              | 23         | Holstein\-Friesian cattle\*                 | 46340             | \\cite\{AerialCattle2017\_link\}                            |
+| 2017                                   | \\cite\{FriesianCattle2017\_AerialCattle2017\}        | FriesianCattle2017                            | 89         | Holstein\-Friesian cattle\*                 | 940               | \\cite\{FriesianCattle2017\_link\}                          |
+| 2017                                   | \\cite\{Great\_Zebra\_and\_Giraffe\_Count\_and\_ID\}  | GZGC                                          | 2056       | plains zebra and Masai giraffe              | 6925              | \\cite\{Great\_Zebra\_and\_Giraffe\_Count\_and\_ID\_link\}  |
+| 2016                                   | \\cite\{Chimpanzee\_Faces\_in\_the\_Wild\}            | C\-Tai                                        | 78         | chimpanzee                                  | 5078              | \\cite\{Chimpanzee\_Faces\_in\_the\_Wild\_link\}            |
+| 2016                                   | \\cite\{Chimpanzee\_Faces\_in\_the\_Wild\}            | C\-Zoo                                        | 24         | chimpanzee                                  | 2109              | \\cite\{Chimpanzee\_Faces\_in\_the\_Wild\_link\}            |
+| 2016                                   | \\cite\{FriesianCattle2015\}                          | FriesianCattle2015                            | 40         | Holstein\-Friesian cattle\*                 | 377               | \\cite\{FriesianCattle2015\_link\}                          |
+| 2015                                   | n\.a\.                                                | Right Whale Recognition                       | 447        | North Atlantic right whale                  | 4544              | \\cite\{Right\_Whale\_Recognition\_link\}                   |
+| 2011                                   | \\cite\{StripeSpotter\}                               | StripeSpotter                                 | 45         | plains and Grevy’s zebra                    | 820               | \\cite\{StripeSpotter\}                                     |
+| 2009                                   | \\cite\{Whale\_Shark\_ID\}                            | Whale Shark ID                                | 543        | whale shark                                 | 7693              | \\cite\{Whale\_Shark\_ID\_link\}                            |
+
+
+
+
 Attention: not up to date. Will be updated soon 
 
 # IndividualAnimalRe-IDDatasets
