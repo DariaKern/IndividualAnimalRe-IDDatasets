@@ -1,5 +1,7 @@
-## **Publicly available animal re-ID datasets, arranged by date of publication.**
-An asterisk (*) marks data derived from video footage. “n.a.” indicates that a corresponding publication could not be found. Source: [ Towards Automated Chicken Monitoring: Dataset and Machine Learning Methods for Visual, Noninvasive Reidentification ](https://doi.org/10.3390/ani15010001)
+# Individual Animal Re-ID Datasets
+### A collection of publicly available computer vision datasets for the re-identification of individual animals
+
+Arranged by date of publicatipn. An asterisk (*) marks data derived from video footage. “n.a.” indicates that a corresponding publication could not be found. Source: [ Towards Automated Chicken Monitoring: Dataset and Machine Learning Methods for Visual, Noninvasive Reidentification ](https://doi.org/10.3390/ani15010001)
 
 
 | **Year** | **Publication** | **Dataset** | **IDs** | **Species** | **Annotations** |
@@ -10,28 +12,28 @@ An asterisk (*) marks data derived from video footage. “n.a.” indicates that
 | 2023   | [Animal Re-Identification Algorithm for Posture Diversity](https://doi.org/10.1109/ICASSP49357.2023.10094783)  | [Multi\-pose dog dataset](https://data.mendeley.com/datasets/v5j6m8dzhv/1)  | 192        | dog        | 1657              | 
 | 2023 | [PolarBearVidID: A Video-Based Re-Identification Benchmark Dataset for Polar Bears](https://doi.org/10.3390/ani13050801)  | [PolarBearVidID](https://doi.org/10.5281/zenodo.7564529)    | 13    | polar bear\*   | 138363    | 
 | 2023    |  [An open-source general purpose machine learning framework for individual animal re-identification using few-shot learning](https://doi.org/10.1111/2041-210X.14278)  | [Sea Star Re\-ID](https://lila.science/sea-star-re-id-2023/)    | 39, 56     | common starfish, Australian cushion star    | 1204, 983     | 
-| 2022   | [A Benchmark Database for Animal Re-Identification and Tracking](https://doi.org/10.1109/IPAS55744.2022.10052988)  | [Animal\-Identification\-from\-Video](https://github.com/LucyKuncheva/Animal-Identification-from-Video) | 58, 26, 9  | pigeon\*, pig\*, Koi fish\*     | 12671, 6184, 1635 |    
+| 2022   | [A Benchmark Database for Animal Re-Identification and Tracking](https://doi.org/10.1109/IPAS55744.2022.10052988)  | [Animal\-Identification\-from\-Video](https://github.com/LucyKuncheva/Animal-Identification-from-Video) ![idfromvideo](./idfromvideo.png)| 58, 26, 9  | pigeon\*, pig\*, Koi fish\*     | 12671, 6184, 1635 |    
 | 2022  | n\.a\. | [Beluga ID](https://lila.science/datasets/beluga-id-2022/) | 788  | beluga whale   | 5902  | 
-| 2022  | n\.a\. | [Happywhale](https://kaggle.com/competitions/happy-whale-and-dolphin)  | 15587  | 30 different species of whales and dolphins | 51033  |  
+| 2022  | n\.a\. | [Happywhale](https://kaggle.com/competitions/happy-whale-and-dolphin) ![happywhale](./happywhale.jpg) | 15587  | 30 different species of whales and dolphins | 51033  |  
 | 2022  | n\.a\. | [Hyiena ID](https://lila.science/datasets/hyena-id-2022/)  | 256   | spotted hyena  | 3129   | 
 | 2022  | n\.a\. | [Leopard ID](https://lila.science/datasets/leopard-id-2022/) | 430   | African leopard    | 6805  | 
-| 2022  | [SealID: Saimaa Ringed Seal Re-Identification Dataset](https://doi.org/10.3390/s22197602) | [SealID](https://doi.org/10.23729/0f4a3296-3b10-40c8-9ad3-0cf00a5a4a53)  | 57   | Saimaa ringed seal | 2080  | 
+| 2022  | [SealID: Saimaa Ringed Seal Re-Identification Dataset](https://doi.org/10.3390/s22197602) | [SealID](https://doi.org/10.23729/0f4a3296-3b10-40c8-9ad3-0cf00a5a4a53) ![seal](./seal.jpg) | 57   | Saimaa ringed seal | 2080  | 
 | 2022  | [SeaTurtleID: A novel long-span dataset highlighting the importance of timestamps in wildlife re-identification](https://doi.org/10.48550/arXiv.2211.10307)  | [SeaTurtleIDHeads](https://www.kaggle.com/datasets/wildlifedatasets/seaturtleidheads)   | 400   | sea turtle    | 7774      |  
 | 2022  | n\.a\. | [Turtle Recall](https://zindi.africa/competitions/turtle-recall-conservation-challenge/data) | 100  | sea turtle  | 2145   |  
-| 2021  | [Individual dairy cow identification based on lightweight convolutional neural network](https://doi.org/10.1371/journal.pone.0260510) | [Cow Dataset](https://doi.org/10.6084/m9.figshare.16879780)     | 13    | cow    | 3772   |     
-| 2021  |  [Towards Self-Supervision for Video Identification of Individual Holstein-Friesian Cattle: The Cows2021 Dataset](https://doi.org/10.48550/arXiv.2105.01938) | [Cows2021](https://doi.org/10.5523/bris.4vnrca7qw1642qlwxjadp87h7) | 182        | Holstein\-Friesian cattle\*   | 13784   | 
+| 2021  | [Individual dairy cow identification based on lightweight convolutional neural network](https://doi.org/10.1371/journal.pone.0260510) | [Cow Dataset](https://doi.org/10.6084/m9.figshare.16879780)  ![cow](./cow.jpg)   | 13    | cow    | 3772   |     
+| 2021  |  [Towards Self-Supervision for Video Identification of Individual Holstein-Friesian Cattle: The Cows2021 Dataset](https://doi.org/10.48550/arXiv.2105.01938) | [Cows2021](https://doi.org/10.5523/bris.4vnrca7qw1642qlwxjadp87h7) ![cows2021](./cows2021.png) | 182        | Holstein\-Friesian cattle\*   | 13784   | 
 | 2021  |  [Revisiting animal photo-identification using deep metric learning and network analysis](https://doi.org/10.1111/2041-210X.13577) | [Giraffe Dataset](https://plmlab.math.cnrs.fr/vmiele/animal-reid/)   | 62         | giraffe    | 624    | 
-| 2021  | [Giant Panda Identification](https://doi.org/10.1109/TIP.2021.3055627)  | [iPanda\-50](https://github.com/iPandaDateset/iPanda-50)| 50 | giant panda | 6874  | 
-| 2020  | [Re-Identification of Zebrafish using Metric Learning](https://doi.org/10.1109/WACVW50321.2020.9096922)  | [AAU Zebrafish Dataset](https://www.kaggle.com/datasets/aalborguniversity/aau-zebrafish-reid)   | 6   | zebrafish\*        | 6672     |
+| 2021  | [Giant Panda Identification](https://doi.org/10.1109/TIP.2021.3055627)  | [iPanda\-50](https://github.com/iPandaDateset/iPanda-50) ![giantpanda](./giantpanda.jpg) | 50 | giant panda | 6874  | 
+| 2020  | [Re-Identification of Zebrafish using Metric Learning](https://doi.org/10.1109/WACVW50321.2020.9096922)  | [AAU Zebrafish Dataset](https://www.kaggle.com/datasets/aalborguniversity/aau-zebrafish-reid)  ![zebrafish](./zebrafish.png) | 6   | zebrafish\*        | 6672     |
 | 2020  | [Automatic Identification of Individual Primates with Deep Learning Techniques](https://doi.org/10.1016/j.isci.2020.101412)  | [Animal Face Dataset](https://doi.org/10.17632/z3x59pv4bz.2)   | 1040       | 41 primate species   | 102399    |  
-| 2020  | [ATRW: A Benchmark for Amur Tiger Re-identification in the Wild](https://doi.org/10.1145/3394171.3413569)  | [ATRW](https://lila.science/datasets/atrw)       | 92         | Amur tiger\* | 3649      |
+| 2020  | [ATRW: A Benchmark for Amur Tiger Re-identification in the Wild](https://doi.org/10.1145/3394171.3413569)  | [ATRW](https://lila.science/datasets/atrw)   ![tiger](./tiger.jpg)    | 92         | Amur tiger\* | 3649      |
 | 2020  | [Automated Identification of Individuals in Wildlife Population Using Siamese Neural Networks](https://doi.org/10.1109/ISCMI51676.2020.9311574) | [Lion Face Dataset](https://github.com/tvanzyl/wildlife_reidentification/)   | 94         | lion   | 740  |
 | 2020  | [NDD20: A large-scale few-shot dolphin dataset for coarse and fine-grained categorisation](https://doi.org/10.48550/arXiv.2005.13359)  | [NDD20](https://doi.org/10.25405/data.ncl.c.4982342)    | 44, 82     | bottlenose and white\-beaked dolphin,    | | white\-beaked dolphin \(underwater\)\* | 2201, 2201  |
 | 2020  | [Automated Identification of Individuals in Wildlife Population Using Siamese Neural Networks](https://doi.org/10.1109/ISCMI51676.2020.9311574) | [Nyala Data](https://github.com/tvanzyl/wildlife_reidentification/)   | 237        | nyala  | 1942    |
 | 2020  | [Visual identification of individual Holstein-Friesian cattle via deep metric learning](https://doi.org/10.1016/j.compag.2021.106133) | [OpenCows2020](https://doi.org/10.5523/bris.10m32xl88x2b61zlkkgz3fml17) | 46    | Holstein\-Friesian cattle\*   | 4736    | 
 | 2019  | [Deep learning-based methods for individual recognition in small birds](https://doi.org/10.1111/2041-210X.13436)  | [Bird individualID](https://github.com/AndreCFerreira/Bird_individualID)   | 30, 10 ,10 | sociable  weaver, great  tit, zebra  finch  | 51934   |                       |
-| 2019  | [A Deep Learning Approach for Dog Face Verification and Recognition](https://doi.org/10.1007/978-3-030-29894-4_34)  | [Dog Face Dataset](https://github.com/GuillaumeMougeot/DogFaceNet)   | 1393       | dog   | 8363     | 
-| 2018  | [Cat face recognition using deep learning](http://dx.doi.org/10.13031/aim.201800316) | [Cat Individual Images](https://www.kaggle.com/datasets/timost1234/cat-individuals)   | 518        | cat    | 13536    | 
+| 2019  | [A Deep Learning Approach for Dog Face Verification and Recognition](https://doi.org/10.1007/978-3-030-29894-4_34)  | [Dog Face Dataset](https://github.com/GuillaumeMougeot/DogFaceNet) ![dog](./dog.jpg)  | 1393       | dog   | 8363     | 
+| 2018  | [Cat face recognition using deep learning](http://dx.doi.org/10.13031/aim.201800316) | [Cat Individual Images](https://www.kaggle.com/datasets/timost1234/cat-individuals) ![cat](./cat.jpg)  | 518        | cat    | 13536    | 
 | 2018  | [Can Drosophila melanogaster tell who’s who?](https://doi.org/10.1371/journal.pone.0205043)  | [Fruit Fly Dataset](https://doi.org/10.5683/SP2/JP4WDF)   | 60  | fruit fly\*  | 2592000  | 
 | 2018  | n\.a\.     | [HumpbackWhaleID](https://kaggle.com/competitions/humpback-whale-identification)  | 5004       | humpback whale     | 15697      | 
 | 2018  | [Automated face recognition of rhesus macaques](https://doi.org/10.1016/j.jneumeth.2017.07.020) | [MacaqueFaces](https://github.com/clwitham/MacaqueFaces)    | 34         | rhesus macaque\*   | 6280   | 
@@ -45,12 +47,7 @@ An asterisk (*) marks data derived from video footage. “n.a.” indicates that
 | 2011  | [Biometric animal databases from field photographs: identification of individual zebra in the wild](https://doi.org/10.1145/1991996.1992002)  | [StripeSpotter](https://code.google.com/archive/p/stripespotter/downloads)  | 45   | plains and Grevy’s zebra   | 820   |
 | 2009  | [Estimating population size, structure, and residency time for whale sharks Rhincodon typus through collaborative photo-identification](https://doi.org/10.3354/esr00186)   | [Whale Shark ID](https://lila.science/datasets/whale-shark-id)   | 543    | whale shark   | 7693  | 
 
-
-
-
-Attention: the following stuff is not up to date. Will be updated soon 
-
-# IndividualAnimalRe-IDDatasets
+<!--# IndividualAnimalRe-IDDatasets
 ### a collection of publicly available computer vision datasets for the re-identification of individual animals
 
 |Dataset|# of Individuals|Data|Content|Labels|License|
@@ -69,7 +66,7 @@ Attention: the following stuff is not up to date. Will be updated soon
 
 
 
-### corresponding publications
+<!--### corresponding publications
 |Year|Publication*|Species|Identifying Feature|Corresponding Dataset|
 |--------|--------|--------|--------|--------|
 |2022|[A Benchmark Database for Animal Re-Identification and Tracking](https://doi.org/10.1109/IPAS55744.2022.10052988)|Pigeon, Koi Fish, Pig|whole body|[Animal-Identification-from-Video](https://github.com/LucyKuncheva/Animal-Identification-from-Video)|
@@ -78,10 +75,10 @@ Attention: the following stuff is not up to date. Will be updated soon
 |2021|[Individual dairy cow identification based on lightweight convolutional neural network](https://doi.org/10.1371/journal.pone.0260510)|Cows|unspecific|[Cow Dataset](https://doi.org/10.6084/m9.figshare.16879780)|
 |2021|[Towards Self-Supervision for Video Identification of Individual Holstein-Friesian Cattle: The Cows2021 Dataset](https://www.researchgate.net/publication/351354662_Towards_Self-Supervision_for_Video_Identification_of_Individual_Holstein-Friesian_Cattle_The_Cows2021_Dataset)|Holstein-Friesian Cattle|coat pattern|[Cows2021](https://data.bris.ac.uk/data/dataset/4vnrca7qw1642qlwxjadp87h7)|
 |2020|[ATRW: A Benchmark for Amur Tiger Re-identification in the Wild](https://doi.org/10.1145/3394171.3413569)|Amur Tiger|coat pattern|[ATRW](https://www.kaggle.com/datasets/quadeer15sh/amur-tiger-reidentification)|
-|2020|[Re-Identification of Zebrafish using Metric Learning](https://doi.org/10.1109/WACVW50321.2020.9096922)|Zebrafish|stripes, body pattern|[AAU Zebrafish Re-Identification Dataset](https://www.kaggle.com/datasets/aalborguniversity/aau-zebrafish-reid)|
+|2020|[Re-Identification of Zebrafish using Metric Learning](https://doi.org/10.1109/WACVW50321.2020.9096922)|Zebrafish|stripes, body pattern|[AAU Zebrafish Re-Identification Dataset](https://www.kaggle.com/datasets/aalborguniversity/aau-zebrafish-reid)|-->
 
 
-*be sure to check for an [ArXiv](https://arxiv.org/) version of any paper that is behind a paywall
+<!--*be sure to check for an [ArXiv](https://arxiv.org/) version of any paper that is behind a paywall -->
 
 ### further publications on the topic where the dataset could not be found and might not be public OR is only available on request
 
@@ -92,7 +89,6 @@ Attention: the following stuff is not up to date. Will be updated soon
 |2021|[Robust Re-identification of Manta Rays from Natural Markings by Learning Pose Invariant Embeddings](https://doi.org/10.1109/DICTA52665.2021.9647359)|Manta Rays|belly markings||
 |2021|[Dog Nose-Print Identification Using Deep Neural Networks](https://doi.org/10.1109/ACCESS.2021.3068517)|Dogs|nose||
 |2021|[Assessing the performance of open-source, semi-automated pattern recognition software for harbour seal (P. v. vitulina) photo ID]()|Harbour Seal|body pattern||
-|2020|[Deep learning-based methods for individual recognition in small birds](https://doi.org/10.1111/2041-210X.13436)|Sociable Weaver, Great Tit, Zebra Finch|body|a|
 |2020|[Bumblebee Re-Identification Dataset](https://doi.org/10.1109/WACVW50321.2020.9096909)|Bumblebee|body|b|
 |2020|[A study on giant panda recognition based on images of a large proportion of captive pandas](https://doi.org/10.1002/ece3.6152)|Giant Panda|face||
 |2020|[Automated facial recognition for wildlife that lack unique markings: A deep learning approach for brown bears](https://doi.org/10.1002/ece3.6840)|Brown Bear|face||
@@ -105,10 +101,11 @@ Attention: the following stuff is not up to date. Will be updated soon
 |2018|[Multi-views Embedding for Cattle Re-identification](https://doi.org/10.1109/SITIS.2018.00036)|Cattle|face||
 |2016|[Automated Visual Fin Identification of Individual Great White Sharks]( https://doi.org/10.1007/s11263-016-0961-y)|Great White Shark|fin|c|
 |2013|[An automated chimpanzee identification system using face detection and recognition](https://doi.org/10.1186/1687-5281-2013-49)|Chimpanzee|face||
-|2011|[Biometric animal databases from field photographs: identification of individual zebra in the wild](https://doi.org/10.1145/1991996.1992002)|Grevy’s Zebra + Plains Zebra|stripes|d|
+<!--|2011|[Biometric animal databases from field photographs: identification of individual zebra in the wild](https://doi.org/10.1145/1991996.1992002)|Grevy’s Zebra + Plains Zebra|stripes|d|-->
+<!--|2020|[Deep learning-based methods for individual recognition in small birds](https://doi.org/10.1111/2041-210X.13436)|Sociable Weaver, Great Tit, Zebra Finch|body|a|-->
 
 
-[a] [GitHub](https://github.com/AndreCFerreira/Bird_individualID) available but dataset cannot be donwloaded
+<!--[a] [GitHub](https://github.com/AndreCFerreira/Bird_individualID) available but dataset cannot be donwloaded-->
 
 [b] please refer to data@apic.ai for early access
 
@@ -126,10 +123,13 @@ Attention: the following stuff is not up to date. Will be updated soon
 |[Bay Cetology](https://baycetology.org/)|Bigg’s killer whale photo-ID data|killer whale|-|
 
 ### further reading
-I'd like to highlight this outstanding publication from 2021 which gives a great overview of the entire topic
+I'd like to highlight this publication from 2021 which gives a great overview of the entire topic
 [Perspectives on Individual Animal Identification from Biology and Computer Vision](https://doi.org/10.1093/icb/icab107)
 
+The [Wildlife Datasets Toolkit](https://github.com/WildlifeDatasets/wildlife-datasets) is an open-source toolkit for animal re-ID. It gathers publicly available animal re-ID datasets in one place in an effort to make them more easily accessible and to improve usability.  
 
-[AIDE: Annotation Interface for Data-driven Ecology](https://github.com/microsoft/aerial_wildlife_detection) is a free tool from Microsoft for manually annotating images & also for training and running machine learning models. Both coupled in an active learning loop
+The [MegaDescriptor](https://huggingface.co/BVRA/MegaDescriptor-L-384) is a state-of-the-art model for animal re-ID and . It was trained on several animal datasets and is species agnostic.
 
-Microsoft has also published the [MegaDetector](https://github.com/microsoft/CameraTraps/blob/main/megadetector.md) on GitHub. It detects animals, people, and vehicles in camera trap images
+<!--[AIDE: Annotation Interface for Data-driven Ecology](https://github.com/microsoft/aerial_wildlife_detection) is a free tool from Microsoft for manually annotating images & also for training and running machine learning models. Both coupled in an active learning loop
+
+Microsoft has also published the [MegaDetector](https://github.com/microsoft/CameraTraps/blob/main/megadetector.md) on GitHub. It detects animals, people, and vehicles in camera trap images-->
