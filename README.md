@@ -116,7 +116,7 @@ where the dataset could not be found and might not be public OR is only availabl
 
  <sup>[c] to obtain a copy please directly contact: Michael C. Scholl, Save Our Seas Foundation (CEO), Michael@SaveOurSeas.com <sup>
 
- <sup>[d] dataset can be downloaded [here](http://code.google.com/p/stripespotter/) but unfotunetely the .zip file cannot be extracted <sup>
+ <!--<sup>[d] dataset can be downloaded [here](http://code.google.com/p/stripespotter/) but unfotunetely the .zip file cannot be extracted <sup>-->
 
 <br/><br/>
 ### More resources
