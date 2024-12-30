@@ -87,6 +87,8 @@ where the dataset could not be found and might not be public OR is only availabl
 
 |Year|Publication|Species|Identifying Feature|Note|
 |--------|--------|--------|--------|--------|
+|2024|[Transformer-Based Similarity Learning for Re-Identification of Chickens](http://dx.doi.org/10.2139/ssrn.4886408)|Chicken|head||
+|2023|[A Purely Visual Re-ID Approach for Bumblebees (Bombus terrestris)](https://doi.org/10.1016/j.atech.2022.100135)| Bumblebee| body||
 |2022|[Honeybee Re-identification in Video: New Datasets and Impact of Self-supervision](https://jachansantiago.com/assets/pdf/VISAPP.pdf)|Honey Bees|abdomen||
 |2021|[YakReID-103: A Benchmark for Yak Re-Identification](https://doi.org/10.1109/IJCB52358.2021.9484341)|Yak|fur, texture, horns||
 |2021|[Robust Re-identification of Manta Rays from Natural Markings by Learning Pose Invariant Embeddings](https://doi.org/10.1109/DICTA52665.2021.9647359)|Manta Rays|belly markings||
