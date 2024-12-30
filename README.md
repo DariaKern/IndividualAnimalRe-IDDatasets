@@ -1,10 +1,10 @@
 # Individual Animal Re-ID Datasets
 ### A collection of publicly available computer vision datasets for the re-identification of individual animals
-Arranged by date of publicatipn. An asterisk (*) marks data derived from video footage. "n.a." indicates that a corresponding publication could not be found. The number of individuals present in each dataset is listed under "IDs". "Annotations" denotes the total number of annotated instances.
+Arranged by date of publicatipn. An asterisk (*) marks data derived from video footage. "n.a." indicates that a corresponding publication could not be found. The number of individuals present in each dataset is listed under "IDs". "Annot\." denotes the total number of annotated instances.
 
 <sup>Source: [ Towards Automated Chicken Monitoring: Dataset and Machine Learning Methods for Visual, Noninvasive Reidentification ](https://doi.org/10.3390/ani15010001) <sup>
 
-| **Year** | **Dataset** | **Publication** | **IDs** | **Species** | **Annotations** | **Preview** |
+| **Year** | **Dataset** | **Publication** | **IDs** | **Species** | **Annot\.** | **Preview** |
 |----------|-------------|-----------------|---------|-------------|-----------------|-------------|
 | 2024     | [Chicks4FreeID](https://doi.org/10.57967/hf/2345) | <sub>[Towards Automated Chicken Monitoring: Dataset and Machine Learning Methods for Visual, Noninvasive Reidentification](https://doi.org/10.3390/ani15010001)<sub> | 50, <br>2, <br>2 | chicken, <br>duck, <br>rooster | 1215,<br> 40,<br> 15 | ![chicks4freeid](./chicks4freeid.png)|
 | 2024     | [SeaTurtleID2022](https://www.kaggle.com/datasets/wildlifedatasets/seaturtleid2022) | <sub>[SeaTurtleID2022: A long-span dataset for reliable sea turtle re-identification](https://doi.org/10.1109/WACV57701.2024.00699)<sub> | 438 | sea turtle | 8729 |                  |
