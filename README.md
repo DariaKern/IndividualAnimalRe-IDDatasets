@@ -2,7 +2,7 @@
 ### A collection of publicly available computer vision datasets for the re-identification of individual animals
 Arranged by date of publicatipn. An asterisk (*) marks data derived from video footage. "n.a." indicates that a corresponding publication could not be found. The number of individuals present in each dataset is listed under "IDs". "Annot\." denotes the total number of annotated instances.
 
-<sup>Source: [ Towards Automated Chicken Monitoring: Dataset and Machine Learning Methods for Visual, Noninvasive Reidentification ](https://doi.org/10.3390/ani15010001) <sup>
+<sup>Table Content Source: [ Towards Automated Chicken Monitoring: Dataset and Machine Learning Methods for Visual, Noninvasive Reidentification ](https://doi.org/10.3390/ani15010001) <sup>
 
 | **Year** | **Dataset** | **Publication** | **IDs** | **Species** | **Annot\.** | **Preview** |
 |----------|-------------|-----------------|---------|-------------|-----------------|-------------|
