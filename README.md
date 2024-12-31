@@ -47,6 +47,11 @@ Arranged by date of publicatipn. An asterisk (*) marks data derived from video f
 | 2011     | [StripeSpotter](https://code.google.com/archive/p/stripespotter/downloads) | <sub>[Biometric animal databases from field photographs: identification of individual zebra in the wild](https://doi.org/10.1145/1991996.1992002)<sub> | 45 | plains and Grevy’s zebra | 820 |![stripeSpotter](./previewImages/stripeSpotter.png)|
 | 2009     | [Whale Shark ID](https://lila.science/datasets/whale-shark-id) | <sub>[Estimating population size, structure, and residency time for whale sharks Rhincodon typus through collaborative photo-identification](https://doi.org/10.3354/esr00186)<sub> | 543 | whale shark | 7693 |![whaleSharkID](./previewImages/whaleSharkID.png)|
 
+<br/><br/>
+> [!TIP]
+> The [Wildlife Datasets Toolkit](https://github.com/WildlifeDatasets/wildlife-datasets) is an open-source toolkit for animal re-ID. It gathers publicly available animal re-ID datasets in one place in an effort to make them more easily accessible and to improve usability. Many of the above listed datasets have been added to the Toolkit.
+> 
+> The [MegaDescriptor](https://huggingface.co/BVRA/MegaDescriptor-L-384) is a state-of-the-art model for animal re-ID and part of the Wildlife Datasets Toolkit. It was trained on several animal datasets and is species agnostic.
 <!--# IndividualAnimalRe-IDDatasets
 ### a collection of publicly available computer vision datasets for the re-identification of individual animals
 
@@ -127,11 +132,6 @@ where the dataset could not be found and might not be public OR is only availabl
 |[OBIS-SEAMAP](https://seamap.env.duke.edu/content/about)|[various datasets](https://seamap.env.duke.edu/dataset/list)|[various species](https://seamap.env.duke.edu/species/list)|-|
 |[Species 360](https://species360.org/)|[various data](https://conservation.species360.org/data-sharing/)|various species|-|
 |[Bay Cetology](https://baycetology.org/)|Bigg’s killer whale photo-ID data|killer whale|-|
-
-<br/><br/>
-> [!TIP]
-> The [Wildlife Datasets Toolkit](https://github.com/WildlifeDatasets/wildlife-datasets) is an open-source toolkit for animal re-ID. It gathers publicly available animal re-ID datasets in one place in an effort to make them more easily accessible and to improve usability.
-> The [MegaDescriptor](https://huggingface.co/BVRA/MegaDescriptor-L-384) is a state-of-the-art model for animal re-ID and part of the Wildlife Datasets Toolkit. It was trained on several animal datasets and is species agnostic.
 
 <br/><br/>
 ### Further reading
