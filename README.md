@@ -103,7 +103,7 @@ where the dataset could not be found and might not be public OR is only availabl
 |2020|<sub>[A study on giant panda recognition based on images of a large proportion of captive pandas](https://doi.org/10.1002/ece3.6152)<sub>|Giant Panda|face||
 |2020|<sub>[Automated facial recognition for wildlife that lack unique markings: A deep learning approach for brown bears](https://doi.org/10.1002/ece3.6840)<sub>|Brown Bear|face||
 |2020|<sub>[Image-based Individual Cow Recognition using Body Patterns](https://dx.doi.org/10.14569/IJACSA.2020.0110311)<sub>|4 Species of Cow|body pattern||
-|2019|<sub>[ELPephants: A Fine-Grained Dataset for Elephant Re-Identification](https://doi.org/10.1109/ICCVW.2019.00035)<sub>|Elephants|tusks, body shapes, injury marks||
+|2019|<sub>[ELPephants: A Fine-Grained Dataset for Elephant Re-Identification](https://doi.org/10.1109/ICCVW.2019.00035)<sub>|Elephants|tusks, body shapes, injury marks|a|
 |2019|<sub>[Chimpanzee face recognition from videos in the wild using deep learning](https://doi.org/10.1126/sciadv.aaw0736)<sub>|Chimpanzee|face||
 |2019|<sub>[Distinguishing Individual Red Pandas from Their Faces](https://doi.org/10.1007/978-3-030-31723-2_61)<sub>|Red Panda|face||
 |2018|<sub>[Individual Common Dolphin Identification Via Metric Embedding Learning](https://doi.org/10.1109/IVCNZ.2018.8634778)<sub>|Common Dolphin|fin||
@@ -117,6 +117,8 @@ where the dataset could not be found and might not be public OR is only availabl
 
 <!--[a] [GitHub](https://github.com/AndreCFerreira/Bird_individualID) available but dataset cannot be donwloaded-->
 
+ <sup>[a] can be accessed through the [Wildlife Datasets Toolkit](https://github.com/WildlifeDatasets/wildlife-datasets) <sup>
+ 
  <sup>[b] please refer to data@apic.ai for early access <sup>
 
  <sup>[c] to obtain a copy please directly contact: Michael C. Scholl, Save Our Seas Foundation (CEO), Michael@SaveOurSeas.com <sup>
