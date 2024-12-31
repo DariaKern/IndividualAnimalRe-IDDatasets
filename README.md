@@ -129,13 +129,15 @@ where the dataset could not be found and might not be public OR is only availabl
 |[Bay Cetology](https://baycetology.org/)|Bigg’s killer whale photo-ID data|killer whale|-|
 
 <br/><br/>
+> [!TIP]
+> The [Wildlife Datasets Toolkit](https://github.com/WildlifeDatasets/wildlife-datasets) is an open-source toolkit for animal re-ID. It gathers publicly available animal re-ID datasets in one place in an effort to make them more easily accessible and to improve usability.
+> The [MegaDescriptor](https://huggingface.co/BVRA/MegaDescriptor-L-384) is a state-of-the-art model for animal re-ID and part of the Wildlife Datasets Toolkit. It was trained on several animal datasets and is species agnostic.
+
+<br/><br/>
 ### Further reading
 I'd like to highlight this publication from 2021 which gives a great overview of the entire topic
 [Perspectives on Individual Animal Identification from Biology and Computer Vision](https://doi.org/10.1093/icb/icab107)
 
-The [Wildlife Datasets Toolkit](https://github.com/WildlifeDatasets/wildlife-datasets) is an open-source toolkit for animal re-ID. It gathers publicly available animal re-ID datasets in one place in an effort to make them more easily accessible and to improve usability.  
-
-The [MegaDescriptor](https://huggingface.co/BVRA/MegaDescriptor-L-384) is a state-of-the-art model for animal re-ID and . It was trained on several animal datasets and is species agnostic.
 
 <!--[AIDE: Annotation Interface for Data-driven Ecology](https://github.com/microsoft/aerial_wildlife_detection) is a free tool from Microsoft for manually annotating images & also for training and running machine learning models. Both coupled in an active learning loop
 
