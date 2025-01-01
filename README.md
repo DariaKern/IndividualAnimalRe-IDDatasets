@@ -92,6 +92,7 @@ where the dataset could not be found and might not be public OR is only availabl
 
 |Year|Publication|Species|Identifying Feature|Note|
 |--------|--------|--------|--------|--------|
+|2025| <sub>[PetFace: A Large-Scale Dataset and Benchmark for Animal Identification](https://doi.org/10.1007/978-3-031-72649-1_2)<sub>| Cat, Chimp, Chinchilla, Degus, Dog, Ferret, Guinea, Hamster, Hedgehog, Parakeet, Java, Pig, Rabbit| face | d |
 |2024| <sub>[Transformer-Based Similarity Learning for Re-Identification of Chickens](http://dx.doi.org/10.2139/ssrn.4886408) <sub>|Chicken|head||
 |2023| <sub>[A Purely Visual Re-ID Approach for Bumblebees (Bombus terrestris)](https://doi.org/10.1016/j.atech.2022.100135) <sub>| Bumblebee| body||
 |2022| <sub>[Honeybee Re-identification in Video: New Datasets and Impact of Self-supervision](https://jachansantiago.com/assets/pdf/VISAPP.pdf) <sub>|Honey Bees|abdomen||
@@ -122,6 +123,8 @@ where the dataset could not be found and might not be public OR is only availabl
  <sup>[b] please refer to data@apic.ai for early access <sup>
 
  <sup>[c] to obtain a copy please directly contact: Michael C. Scholl, Save Our Seas Foundation (CEO), Michael@SaveOurSeas.com <sup>
+
+ <sup>[d] available on request through this [form](https://forms.gle/xgkZSg6yWjfBhCGE6) <sup>
 
  <!--<sup>[d] dataset can be downloaded [here](http://code.google.com/p/stripespotter/) but unfotunetely the .zip file cannot be extracted <sup>-->
 
