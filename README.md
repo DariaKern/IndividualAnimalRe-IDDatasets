@@ -1,10 +1,11 @@
 # Individual Animal Re-ID Datasets
-### A collection of publicly available computer vision datasets for the re-identification of individual animals
-Arranged by date of publicatipn. An asterisk (*) marks data derived from video footage. "n.a." indicates that a corresponding publication could not be found. The number of individuals present in each dataset is listed under "IDs". "Annot\." denotes the total number of annotated instances.
-
 > [!NOTE]  
-> Citations go a long way — give credit where it’s due!
+> Citations go a long way — give credit where it’s due! <br/><br/>
+> Scroll down the page to find out how to cite the tables if you re-use them in any form or way
 
+<br/><br/>
+### Table 1: A collection of publicly available computer vision datasets for the re-identification of individual animals
+Arranged by date of publicatipn. An asterisk (*) marks data derived from video footage. "n.a." indicates that a corresponding publication could not be found. The number of individuals present in each dataset is listed under "IDs". "Annot\." denotes the total number of annotated instances.
 
 | **Year** | **Dataset** | **Publication** | **IDs** | **Species** | **Annot\.** | **Preview** |
 |----------|-------------|-----------------|---------|-------------|-----------------|-------------|
@@ -50,7 +51,7 @@ Arranged by date of publicatipn. An asterisk (*) marks data derived from video f
 | 2009     | [Whale Shark ID](https://lila.science/datasets/whale-shark-id) | <sub>[Estimating population size, structure, and residency time for whale sharks Rhincodon typus through collaborative photo-identification](https://doi.org/10.3354/esr00186)<sub> | 543 | whale shark | 7693 |![whaleSharkID](./previewImages/whaleSharkID.png)|
  
  <sup>Table Content Source: [ Towards Automated Chicken Monitoring: Dataset and Machine Learning Methods for Visual, Noninvasive Reidentification ](https://doi.org/10.3390/ani15010001) <sup>
-
+ 
 <br/><br/>
 > [!TIP]
 > The [Wildlife Datasets Toolkit](https://github.com/WildlifeDatasets/wildlife-datasets) is an open-source toolkit for animal re-ID. It gathers publicly available animal re-ID datasets in one place in an effort to make them more easily accessible and to improve usability. Many of the above listed datasets have been added to the Toolkit.
@@ -91,7 +92,7 @@ Arranged by date of publicatipn. An asterisk (*) marks data derived from video f
 
 
 <br/><br/>
-### Further publications on the topic 
+### Table 2: Further publications on the topic 
 where the dataset could not be found and might not be public OR is only available on request
 
 |Year|Publication|Species|Identifying Feature|Note|
@@ -147,6 +148,35 @@ where the dataset could not be found and might not be public OR is only availabl
 I'd like to highlight this publication from 2021 which gives a great overview of the entire topic
 [Perspectives on Individual Animal Identification from Biology and Computer Vision](https://doi.org/10.1093/icb/icab107)
 
+<br/><br/>
+## 🖋️ Citation 
+Table 1: A collection of publicly available computer vision datasets for the re-identification of individual animals
+```tex
+@Article{ani15010001,
+AUTHOR = {Kern, Daria and Schiele, Tobias and Klauck, Ulrich and Ingabire, Winfred},
+TITLE = {Towards Automated Chicken Monitoring: Dataset and Machine Learning Methods for Visual, Noninvasive Reidentification},
+JOURNAL = {Animals},
+VOLUME = {15},
+YEAR = {2025},
+NUMBER = {1},
+ARTICLE-NUMBER = {1},
+URL = {https://www.mdpi.com/2076-2615/15/1/1},
+ISSN = {2076-2615},
+DOI = {10.3390/ani15010001}
+}
+```
+
+Table 2: Further publications on the topic
+```tex
+@misc{Kern_Individual_Animal_Re-ID_Datasets,
+  author       = {Daria Kern},
+  title        = {Individual Animal Re-ID Datasets},
+  year         = {2025},
+  publisher    = {GitHub},
+  journal      = {GitHub repository},
+  howpublished = {\url{https://github.com/DariaKern/IndividualAnimalRe-IDDatasets}},
+}
+```
 
 <!--[AIDE: Annotation Interface for Data-driven Ecology](https://github.com/microsoft/aerial_wildlife_detection) is a free tool from Microsoft for manually annotating images & also for training and running machine learning models. Both coupled in an active learning loop
 
