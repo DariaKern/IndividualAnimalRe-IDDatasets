@@ -2,7 +2,9 @@
 ### A collection of publicly available computer vision datasets for the re-identification of individual animals
 Arranged by date of publicatipn. An asterisk (*) marks data derived from video footage. "n.a." indicates that a corresponding publication could not be found. The number of individuals present in each dataset is listed under "IDs". "Annot\." denotes the total number of annotated instances.
 
-<sup>Table Content Source: [ Towards Automated Chicken Monitoring: Dataset and Machine Learning Methods for Visual, Noninvasive Reidentification ](https://doi.org/10.3390/ani15010001) <sup>
+> [!NOTE]  
+> Citations go a long way — give credit where it’s due!
+
 
 | **Year** | **Dataset** | **Publication** | **IDs** | **Species** | **Annot\.** | **Preview** |
 |----------|-------------|-----------------|---------|-------------|-----------------|-------------|
@@ -46,6 +48,8 @@ Arranged by date of publicatipn. An asterisk (*) marks data derived from video f
 | 2015     | [Right Whale <br>Recognition](https://kaggle.com/competitions/noaa-right-whale-recognition) | n\.a\. | 447 | North Atlantic right whale | 4544 |![rightWhaleRecognition](./previewImages/rightWhaleRecognition.png)|
 | 2011     | [StripeSpotter](https://code.google.com/archive/p/stripespotter/downloads) | <sub>[Biometric animal databases from field photographs: identification of individual zebra in the wild](https://doi.org/10.1145/1991996.1992002)<sub> | 45 | plains and Grevy’s zebra | 820 |![stripeSpotter](./previewImages/stripeSpotter.png)|
 | 2009     | [Whale Shark ID](https://lila.science/datasets/whale-shark-id) | <sub>[Estimating population size, structure, and residency time for whale sharks Rhincodon typus through collaborative photo-identification](https://doi.org/10.3354/esr00186)<sub> | 543 | whale shark | 7693 |![whaleSharkID](./previewImages/whaleSharkID.png)|
+ 
+ <sup>Table Content Source: [ Towards Automated Chicken Monitoring: Dataset and Machine Learning Methods for Visual, Noninvasive Reidentification ](https://doi.org/10.3390/ani15010001) <sup>
 
 <br/><br/>
 > [!TIP]
