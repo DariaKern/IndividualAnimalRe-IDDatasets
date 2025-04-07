@@ -1,7 +1,8 @@
 # Individual Animal Re-ID Datasets
 > [!NOTE]  
 > Citations go a long way — give credit where it’s due! <br/><br/>
-> Scroll down the page to find out how to cite the tables if you re-use them in any form or way
+<!--
+ Scroll down the page to find out how to cite the tables if you re-use them in any form or way-->
 
 <br/><br/>
 ### Table 1: A collection of publicly available computer vision datasets for the re-identification of individual animals
@@ -9,6 +10,7 @@ Arranged by date of publicatipn. An asterisk (*) marks data derived from video f
 
 | **Year** | **Dataset** | **Publication** | **IDs** | **Species** | **Annot\.** | **Preview** |
 |----------|-------------|-----------------|---------|-------------|-----------------|-------------|
+| 2025     | [WildlifeReID-10k ](https://www.kaggle.com/datasets/wildlifedatasets/wildlifereid-10k/code) | <sub>[WildlifeReID-10k: Wildlife re-identification dataset with 10k individual animals](https://arxiv.org/abs/2406.09211) | 10772 | bird, cat, chicken, chimpanzee, cow, dog, dolphin, fish, giraffe, hyena, leopard, macaque, nyala, panda, polar bear, sea star, sea turtle, seal, tiger, whale, whaleshark, zebra | 140488 | species of 37 datasets from the [wildlife-datasets python library](https://github.com/WildlifeDatasets/wildlife-datasets)|
 | 2024     | [Chicks4FreeID](https://doi.org/10.57967/hf/2345) | <sub>[Towards Automated Chicken Monitoring: Dataset and Machine Learning Methods for Visual, Noninvasive Reidentification](https://doi.org/10.3390/ani15010001)<sub> | 50, <br>2, <br>2 | chicken, <br>duck, <br>rooster | 1215,<br> 40,<br> 15 | ![chicks4freeid](./previewImages/chicks4freeid.png)|
 | 2024     | [SeaTurtleID2022](https://www.kaggle.com/datasets/wildlifedatasets/seaturtleid2022) | <sub>[SeaTurtleID2022: A long-span dataset for reliable sea turtle re-identification](https://doi.org/10.1109/WACV57701.2024.00699)<sub> | 438 | sea turtle | 8729 |![seaTurtleID](./previewImages/SeaTurtleID2022.png)|
 | 2023     | [Mammal Club <br>\(IISD\)](https://github.com/WJ-0425/MammalClub) | <sub>[MammalClub: An Annotated Wild Mammal Dataset for Species Recognition, Individual Identification, and Behavior Recognition](https://doi.org/10.3390/electronics12214506)<sub> | 218 | 11 terrestrial mammal species\* | 33612 |![MammalClub](./previewImages/MammalClub.png)|
@@ -50,7 +52,7 @@ Arranged by date of publicatipn. An asterisk (*) marks data derived from video f
 | 2011     | [StripeSpotter](https://code.google.com/archive/p/stripespotter/downloads) | <sub>[Biometric animal databases from field photographs: identification of individual zebra in the wild](https://doi.org/10.1145/1991996.1992002)<sub> | 45 | plains and Grevy’s zebra | 820 |![stripeSpotter](./previewImages/stripeSpotter.png)|
 | 2009     | [Whale Shark ID](https://lila.science/datasets/whale-shark-id) | <sub>[Estimating population size, structure, and residency time for whale sharks Rhincodon typus through collaborative photo-identification](https://doi.org/10.3354/esr00186)<sub> | 543 | whale shark | 7693 |![whaleSharkID](./previewImages/whaleSharkID.png)|
  
- <sup>Table Content Source: [ Towards Automated Chicken Monitoring: Dataset and Machine Learning Methods for Visual, Noninvasive Reidentification ](https://doi.org/10.3390/ani15010001) <sup>
+ <sup>Table Content Source (until last entry of 2024): [ Towards Automated Chicken Monitoring: Dataset and Machine Learning Methods for Visual, Noninvasive Reidentification ](https://doi.org/10.3390/ani15010001) <sup>
  
 <br/><br/>
 > [!TIP]
