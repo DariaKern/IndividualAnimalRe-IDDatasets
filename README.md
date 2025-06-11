@@ -158,23 +158,6 @@ I'd like to highlight this publication from 2021 which gives a great overview of
 
 <br/><br/>
 ## 🖋️ Citation 
-Table 1: A collection of publicly available computer vision datasets for the re-identification of individual animals
-```tex
-@Article{ani15010001,
-AUTHOR = {Kern, Daria and Schiele, Tobias and Klauck, Ulrich and Ingabire, Winfred},
-TITLE = {Towards Automated Chicken Monitoring: Dataset and Machine Learning Methods for Visual, Noninvasive Reidentification},
-JOURNAL = {Animals},
-VOLUME = {15},
-YEAR = {2025},
-NUMBER = {1},
-ARTICLE-NUMBER = {1},
-URL = {https://www.mdpi.com/2076-2615/15/1/1},
-ISSN = {2076-2615},
-DOI = {10.3390/ani15010001}
-}
-```
-
-Table 2: Further publications on the topic
 ```tex
 @misc{Kern_Individual_Animal_Re-ID_Datasets,
   author       = {Daria Kern},
